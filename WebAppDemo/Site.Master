@@ -63,7 +63,7 @@
                                     <a class="dropdown-item"
                                             href="~/ExercisePages/ExerciseHome.aspx"
                                             style="color:black" runat="server">
-                                            TestPage
+                                            ExerciseHome
                                     </a>
                                 </div>
                             </li>
